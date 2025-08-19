@@ -120,7 +120,6 @@
     <orderEntry type="library" scope="PROVIDED" name="securerandom (v0.4.1, ruby-3.3.6-p108) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="solid_cable (v3.0.5, ruby-3.3.6-p108) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="solid_cache (v1.0.6, ruby-3.3.6-p108) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="solid_queue (v1.1.1, ruby-3.3.6-p108) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sqlite3 (v2.5.0, ruby-3.3.6-p108) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sshkit (v1.23.2, ruby-3.3.6-p108) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="stringio (v3.1.2, ruby-3.3.6-p108) [gem]" level="application" />

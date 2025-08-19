@@ -1,0 +1,6 @@
+@TasksAPI_HostAddress = http://localhost:5190
+
+GET {{TasksAPI_HostAddress}}/api/tasknotes/
+Accept: application/json
+
+###

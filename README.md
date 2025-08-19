@@ -1,24 +1,11 @@
-# README
+# Tasks App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Tasks App is a simple web API that allows users to create and manage tasks. It is built using Ruby on Rails and SQLite3 as the database.
 
-Things you may want to cover:
+## Features
+- User authentication
+- Task creation and management
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Task Details
+- Each task has a title, description, priority, and due date.
+- Users can create, update, and delete tasks.
